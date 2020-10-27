@@ -28,7 +28,7 @@ namespace OddOrEven
             }
             else
             {
-                Console.WriteLine("Your number is odd!");
+                Console.WriteLine("Your number is odd!!");
                 return false;
             }
                          
